@@ -2,6 +2,7 @@
 Search among the data
 
 * Description and parts of the project.
+
 This web application is for searching information among the data which are two excel files; 1) list of historic newspaper articles. 2) list of all newspapers that were published.
 
 This project contains different parts:
